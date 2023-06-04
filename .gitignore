@@ -2,6 +2,8 @@
 /*/
 
 !.gitignore
+!starship.toml
+
 !/nvim/
 !/alacritty/
 !/fish/
