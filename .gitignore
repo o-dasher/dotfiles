@@ -4,3 +4,4 @@
 !.gitignore
 !/nvim/
 !/alacritty/
+!/fish/
