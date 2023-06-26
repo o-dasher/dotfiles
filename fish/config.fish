@@ -14,3 +14,6 @@ function fish_greeting
     jp2a --colors --height=24 $CWD/res/welcom.jpg
 end
 
+set PATH $HOME/.cargo/bin $PATH
+set PATH $HOME/.local/bin $PATH
+set PATH $HOME/.yarn/bin $PATH
