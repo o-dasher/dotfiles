@@ -11,9 +11,11 @@ function fish_greeting
     echo Welcome(set_color magenta) home(set_color normal) $USER how are you doing today\?
     echo (set_color magenta; date)
 
-    jp2a --colors --height=24 $CWD/res/welcom.jpg
+    jp2a --colors --height=28 $CWD/res/gura.jpg
 end
 
 set PATH $HOME/.cargo/bin $PATH
 set PATH $HOME/.local/bin $PATH
 set PATH $HOME/.yarn/bin $PATH
+
+swww img ~/Wallpapers/gurathing.jpg
